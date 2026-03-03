@@ -1,0 +1,21 @@
+Types of error
+1.Syntax error
+2.Runtime error
+error occur while running program
+
+zeroDivisionError
+Example:
+print(10/0)
+
+NameError
+Example:
+print(x)
+
+valueerror
+
+indexerror
+
+keyerror
+
+3.logicalerror
+

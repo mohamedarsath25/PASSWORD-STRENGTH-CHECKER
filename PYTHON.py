@@ -1,0 +1,5 @@
+a=input("Enter your first name :")
+b=input("Enter your Last name :")
+c=int(input("enter your total marks :"))
+d=float(c)
+print(a+b," ",d)
